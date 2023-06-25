@@ -84,6 +84,6 @@
     "remark-gfm": "^2.0.0",
     "remark-parse": "^10.0.2",
     "remark-react": "^9.0.1",
-    "unified": "^10.1.0"
+    "unified": "^10.1.2"
   }
 }
