@@ -57,7 +57,7 @@
     "electron-devtools-installer": "^3.2.0",
     "eslint": "^8.43.0",
     "eslint-config-prettier": "^8.8.0",
-    "lint-staged": "^13.2.2",
+    "lint-staged": "^13.3.0",
     "simple-git-hooks": "^2.8.1",
     "spectron": "^19.0.0",
     "typescript": "^5.1.3",
